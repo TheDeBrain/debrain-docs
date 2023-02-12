@@ -1,6 +1,2 @@
----
-description: A decentralized brain
----
-
-# 🧠 DeBrain
+# Overview
 
